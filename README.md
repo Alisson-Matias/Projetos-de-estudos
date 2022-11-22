@@ -1,3 +1,3 @@
-<h1>Projeto Alura HTML 1</h1>
+<h1>Projetos de estudos</h1>
 
-> Projeto para estudos de HTML/CSS
+> Pasta contendo todos os projetos utilizados para estudos
